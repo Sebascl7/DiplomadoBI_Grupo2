@@ -1,5 +1,10 @@
 # 📊 DIPLOMADO BI GRUPO 2
 
+## Este es nuestro diagrama de base de datos en SQL
+
+![Reporte Power BI](DiplomadoBIGrupo2_DiagramaBD.png)
+
+
 ## Este es mi reporte
 
 Este proyecto forma parte del diplomado en Business Intelligence. A continuación se muestra una vista del reporte principal realizado en Power BI.
