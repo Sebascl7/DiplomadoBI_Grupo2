@@ -2,7 +2,7 @@
 
 ## Este es nuestro Script de creacion de tablas de la base de datos en SQL
 
-![Reporte Power BI](DiplomadoBIGrupo2_DiagramaBD.png)
+![Reporte Power BI](CODIGO SQL  - GRUPO 2 Rev0.sql)
 
 
 ## Este es nuestro diagrama de base de datos en SQL
