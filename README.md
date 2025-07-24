@@ -1,5 +1,10 @@
 # 📊 DIPLOMADO BI GRUPO 2
 
+## Este es nuestro Script de creacion de tablas de la base de datos en SQL
+
+![Reporte Power BI](DiplomadoBIGrupo2_DiagramaBD.png)
+
+
 ## Este es nuestro diagrama de base de datos en SQL
 
 ![Reporte Power BI](DiplomadoBIGrupo2_DiagramaBD.png)
